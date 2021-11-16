@@ -1,6 +1,6 @@
 # grpc-labs
 
-# Types of APIs
+## Types of APIs
 
 ![types of APIs](/diagrams/gRPC.png)
 
